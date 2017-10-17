@@ -1,2 +1,2 @@
 # Digital-Filters--Noise-neutralization
-wiener hopf -steepest descent user for coefficients' calculations
+wiener hopf -steepest descent used for coefficients' calculations
